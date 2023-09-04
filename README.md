@@ -18,12 +18,14 @@ To use this code, follow these steps:
 
 Clone this repository to your local machine.
 
-```git clone https://github.com/yourusername/ionospheric-chemical-scheme.git
+```
+git clone https://github.com/yourusername/ionospheric-chemical-scheme.git
 ```
 
 Navigate to the project directory.
 
-```cd ionospheric-chemical-scheme
+```
+cd ionospheric-chemical-scheme
 ```
 
 Ensure you have the required dependencies installed (if any) by following the installation instructions provided in the repository.
