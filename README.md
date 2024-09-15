@@ -77,6 +77,6 @@ This project is part of a collaborative effort. The team working on radiative tr
 ## Acknowledgements
 I would like to express our gratitude to the organizers and participants of the Space Weather Simulation Summer School 2023 at the University of Michigan. The insights and knowledge gained during the program have greatly contributed to the development and refinement of this project. I appreciate the collaborative environment and valuable discussions that enriched my understanding of space weather modeling and data analysis.
 
-![CERTIFICATION](https://github.com/user-attachments/assets/24e8609b-c70b-4dea-bc45-65ffae8589df)
+
 
 
